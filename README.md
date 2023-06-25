@@ -12,19 +12,20 @@ Extended Overview
 
 ![image](https://github.com/JaiS0705/QContest/assets/119796621/32cf1d96-b5bb-45eb-a83a-396e718017ea)
 
-Implement Entities
-Scope of Work
-Implement entities with the identified attributes and their behavior.
-Implement the relationship between the entities
-Write good quality tests for entities that cover all the appropriate behavior.
+Implement Entities : - 
+Scope of Work :
+1. Implement entities with the identified attributes and their behavior.
+2. Implement the relationship between the entities
+3. Write good quality tests for entities that cover all the appropriate behavior.
  
-Skills used
+Skills used : 
 Object Oriented Design, Java, Unit Testing
 
-Implement Entities
-Scope of Work
-Implement services & repositories layer of QContest adhering to the SOLID principles.
-Follow Test Driven Development to ensure correctness and better code coverage. 
+Implement Entities : -
+Scope of Work :
+1. Implement services & repositories layer of QContest adhering to the SOLID principles.
+2. Follow Test Driven Development to ensure correctness and better code coverage. 
+
 Skills used
 Object Oriented Design, Java, Python, Unit Testing, Design Patterns, SOLID Principles, Exception Handling
 
